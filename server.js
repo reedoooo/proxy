@@ -1,7 +1,7 @@
 const express = require("express");
 const fetch = require("node-fetch");
 const app = express();
-const PORT = 3001; // You can choose any available port
+const PORT = 3002; // You can choose any available port
 
 app.use(express.json());
 
